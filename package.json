@@ -1,0 +1,20 @@
+{
+  "name": "api_jtaylor",
+  "version": "1.0.0",
+  "description": "Build an API backend that functions essentially like randomuserAPI",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "random-seed": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run randomCreator"
+  },
+  "keywords": [
+    "API",
+    "randomCreator"
+  ],
+  "author": "James Taylor",
+  "license": "MIT"
+}
